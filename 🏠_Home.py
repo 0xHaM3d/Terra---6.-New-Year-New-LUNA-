@@ -57,7 +57,7 @@ st.write(
     """
     The data for this analysis were selected from the [**Flipside Crypto**](https://flipsidecrypto.xyz/)
     data platform by using its **shroomDK**. The codes for this tool are saved and accessible
-    in its [**GitHub Repository**](https://github.com/0xHaM3d/Terradash-Part-4-Bringing-It-All-Together).
+    in its [**GitHub Repository**](https://https://github.com/0xHaM3d/Terra---6.-New-Year-New-LUNA-).
 
     As the queries are updated on a daily and weekly basis to cover the most data, there is a chance
     that viewers encounter inconsistent data through the app. Due to the heavy computational power required to execute
