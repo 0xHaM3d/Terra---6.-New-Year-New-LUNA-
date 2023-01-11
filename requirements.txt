@@ -4,6 +4,5 @@ altair
 pandas
 plotly
 plotly.express
-plotly.graph_objects
 plotly.subplots 
 numpy
